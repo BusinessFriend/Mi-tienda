@@ -6,12 +6,12 @@ Productos y Servicios de Alta Calidad
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Moda Urbana - Tienda Online</title>
+  Business Friend - Tienda Online
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Moda Urbana</h1>
+    <h1>Business Friend</h1>
     <p>Tu tienda online de ropa exclusiva</p>
   </header>
 
@@ -61,7 +61,7 @@ Productos y Servicios de Alta Calidad
 
   <section id="contacto">
     <h2>Contacto</h2>
-    <p>📧 contacto@modaurbana.com</p>
+    <p>📧 contacto@businessfriend.com</p>
     <p>📱 WhatsApp: +593 987654321</p>
   </section>
 
@@ -69,7 +69,6 @@ Productos y Servicios de Alta Calidad
     <p>© 2025 Moda Urbana - Todos los derechos reservados</p>
   </footer>
 
-  <script src="script.js"></script>
 </body>
 </html>
 
